@@ -1,0 +1,517 @@
+[
+  {
+    "Id": 7400,
+    "FilePath": "C:\\Windows\\System32\\DriverStore\\FileRepository\\asussci2.inf_amd64_07d00c3f6cf68f6e\\ASUSOptimization\\AsusOptimizationStartupTask.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 5960,
+    "FilePath": "C:\\Windows\\system32\\sihost.exe",
+    "IsTrusted": false
+  },
+  {
+    "Id": 7228,
+    "FilePath": "C:\\Windows\\system32\\svchost.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 4692,
+    "FilePath": "C:\\Windows\\system32\\svchost.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 7012,
+    "FilePath": "C:\\Windows\\system32\\taskhostw.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 8596,
+    "FilePath": "C:\\Windows\\Explorer.EXE",
+    "IsTrusted": true
+  },
+  {
+    "Id": 9716,
+    "FilePath": "C:\\Windows\\SystemApps\\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\\StartMenuExperienceHost.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 9976,
+    "FilePath": "C:\\Windows\\System32\\RuntimeBroker.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 9448,
+    "FilePath": "C:\\Windows\\SystemApps\\Microsoft.Windows.Search_cw5n1h2txyewy\\SearchApp.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 10372,
+    "FilePath": "C:\\Windows\\System32\\RuntimeBroker.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 11428,
+    "FilePath": "C:\\Windows\\System32\\RuntimeBroker.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 10816,
+    "FilePath": "C:\\Windows\\System32\\SecurityHealthSystray.exe",
+    "IsTrusted": false
+  },
+  {
+    "Id": 12044,
+    "FilePath": "C:\\Program Files (x86)\\Steam\\steam.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 10680,
+    "FilePath": "C:\\Program Files\\AMD\\CNext\\CNext\\Radeonsoftware.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 8376,
+    "FilePath": "C:\\Program Files (x86)\\Steam\\bin\\cef\\cef.win7x64\\steamwebhelper.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 12364,
+    "FilePath": "C:\\Program Files (x86)\\Razer\\Synapse3\\Service\\..\\UserProcess\\Razer Synapse Service Process.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 12556,
+    "FilePath": "C:\\Program Files (x86)\\Steam\\bin\\cef\\cef.win7x64\\steamwebhelper.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 12668,
+    "FilePath": "C:\\Program Files (x86)\\Steam\\bin\\cef\\cef.win7x64\\steamwebhelper.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 12772,
+    "FilePath": "C:\\Program Files (x86)\\Steam\\bin\\cef\\cef.win7x64\\steamwebhelper.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 13100,
+    "FilePath": "C:\\Program Files\\AMD\\CNext\\CNext\\cncmd.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 5864,
+    "FilePath": "C:\\Program Files (x86)\\Steam\\bin\\cef\\cef.win7x64\\steamwebhelper.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 12544,
+    "FilePath": "C:\\Program Files (x86)\\Steam\\bin\\cef\\cef.win7x64\\steamwebhelper.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 6492,
+    "FilePath": "C:\\Windows\\system32\\RtkAudUService64.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 12348,
+    "FilePath": "C:\\Program Files (x86)\\Steam\\bin\\cef\\cef.win7x64\\steamwebhelper.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 13040,
+    "FilePath": "C:\\Windows\\ImmersiveControlPanel\\SystemSettings.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 9288,
+    "FilePath": "C:\\Windows\\system32\\ApplicationFrameHost.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 1392,
+    "FilePath": "C:\\Windows\\System32\\oobe\\UserOOBEBroker.exe",
+    "IsTrusted": false
+  },
+  {
+    "Id": 5992,
+    "FilePath": "C:\\Windows\\System32\\svchost.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 10076,
+    "FilePath": "C:\\Windows\\System32\\DriverStore\\FileRepository\\asussci2.inf_amd64_07d00c3f6cf68f6e\\ASUSSystemAnalysis\\AsusSystemAnalysis.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 7760,
+    "FilePath": "C:\\Windows\\system32\\conhost.exe",
+    "IsTrusted": false
+  },
+  {
+    "Id": 12824,
+    "FilePath": "C:\\Windows\\SystemApps\\Microsoft.Windows.Search_cw5n1h2txyewy\\SearchApp.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 6916,
+    "FilePath": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\126.0.2592.68\\msedgewebview2.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 7864,
+    "FilePath": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\126.0.2592.68\\msedgewebview2.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 4232,
+    "FilePath": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\126.0.2592.68\\msedgewebview2.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 9728,
+    "FilePath": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\126.0.2592.68\\msedgewebview2.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 7432,
+    "FilePath": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\126.0.2592.68\\msedgewebview2.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 4100,
+    "FilePath": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\126.0.2592.68\\msedgewebview2.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 11192,
+    "FilePath": "C:\\Program Files (x86)\\Microsoft Office\\Root\\Office16\\SDXHelper.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 12984,
+    "FilePath": "C:\\Program Files\\WindowsApps\\Microsoft.XboxGamingOverlay_7.124.5142.0_x64__8wekyb3d8bbwe\\GameBar.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 6832,
+    "FilePath": "C:\\Windows\\System32\\RuntimeBroker.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 13052,
+    "FilePath": "C:\\Windows\\SystemApps\\Microsoft.LockApp_cw5n1h2txyewy\\LockApp.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 2640,
+    "FilePath": "C:\\Windows\\System32\\RuntimeBroker.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 6604,
+    "FilePath": "C:\\Windows\\system32\\taskhostw.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 3728,
+    "FilePath": "C:\\Windows\\system32\\svchost.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 10172,
+    "FilePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 15164,
+    "FilePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 6500,
+    "FilePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 14560,
+    "FilePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 14444,
+    "FilePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 15196,
+    "FilePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 3944,
+    "FilePath": "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\TextInputHost.exe",
+    "IsTrusted": false
+  },
+  {
+    "Id": 15820,
+    "FilePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 15900,
+    "FilePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 16376,
+    "FilePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 3104,
+    "FilePath": "C:\\Windows\\system32\\DllHost.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 14180,
+    "FilePath": "C:\\Users\\savage\\AppData\\Roaming\\Telegram Desktop\\Telegram.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 4708,
+    "FilePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 10772,
+    "FilePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 12528,
+    "FilePath": "C:\\Program Files (x86)\\Microsoft Office\\Root\\Office16\\WINWORD.EXE",
+    "IsTrusted": true
+  },
+  {
+    "Id": 8980,
+    "FilePath": "C:\\Program Files (x86)\\Microsoft Office\\root\\vfs\\ProgramFilesCommonX64\\Microsoft Shared\\OFFICE16\\ai.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 12000,
+    "FilePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 9752,
+    "FilePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 14456,
+    "FilePath": "C:\\Program Files\\Oracle\\VirtualBox\\VirtualBox.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 14508,
+    "FilePath": "C:\\Program Files\\Oracle\\VirtualBox\\VBoxSVC.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 14212,
+    "FilePath": "C:\\Program Files\\Oracle\\VirtualBox\\VirtualBoxVM.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 15568,
+    "FilePath": "C:\\Program Files\\Oracle\\VirtualBox\\VirtualBoxVM.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 4104,
+    "FilePath": "C:\\Program Files\\Oracle\\VirtualBox\\VirtualBoxVM.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 2892,
+    "FilePath": "C:\\Windows\\system32\\SnippingTool.exe",
+    "IsTrusted": false
+  },
+  {
+    "Id": 13576,
+    "FilePath": "C:\\Windows\\system32\\mspaint.exe",
+    "IsTrusted": false
+  },
+  {
+    "Id": 15660,
+    "FilePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 7772,
+    "FilePath": "C:\\Windows\\system32\\svchost.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 9544,
+    "FilePath": "C:\\Program Files\\DAEMON Tools Lite\\DTShellHlp.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 11416,
+    "FilePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 7576,
+    "FilePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 11172,
+    "FilePath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\devenv.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 11460,
+    "FilePath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\PerfWatson2.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 8676,
+    "FilePath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\devenv.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 15488,
+    "FilePath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\ServiceHub\\controller\\Microsoft.ServiceHub.Controller.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 6788,
+    "FilePath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\ServiceHub\\Hosts\\ServiceHub.Host.AnyCPU\\ServiceHub.VSDetouredHost.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 14136,
+    "FilePath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\ServiceHub\\Hosts\\ServiceHub.Host.AnyCPU\\ServiceHub.SettingsHost.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 524,
+    "FilePath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\PerfWatson2.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 11284,
+    "FilePath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\ServiceHub\\Hosts\\ServiceHub.Host.netfx.x86\\ServiceHub.IdentityHost.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 14364,
+    "FilePath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\ServiceHub\\Hosts\\ServiceHub.Host.netfx.x86\\ServiceHub.Host.netfx.x86.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 16152,
+    "FilePath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\ServiceHub\\controller\\Microsoft.ServiceHub.Controller.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 6392,
+    "FilePath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\ServiceHub\\Hosts\\ServiceHub.Host.netfx.x86\\ServiceHub.IdentityHost.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 7088,
+    "FilePath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\ServiceHub\\Hosts\\ServiceHub.Host.AnyCPU\\ServiceHub.VSDetouredHost.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 16264,
+    "FilePath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\ServiceHub\\Hosts\\ServiceHub.Host.AnyCPU\\ServiceHub.SettingsHost.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 12216,
+    "FilePath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\ServiceHub\\Hosts\\ServiceHub.Host.netfx.x86\\ServiceHub.Host.netfx.x86.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 16684,
+    "FilePath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\ServiceHub\\Hosts\\ServiceHub.Host.AnyCPU\\ServiceHub.ThreadedWaitDialog.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 14484,
+    "FilePath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\MSBuild.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 3288,
+    "FilePath": "C:\\Windows\\system32\\conhost.exe",
+    "IsTrusted": false
+  },
+  {
+    "Id": 17184,
+    "FilePath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\ServiceHub\\Hosts\\ServiceHub.Host.Dotnet.x64\\ServiceHub.IndexingService.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 5832,
+    "FilePath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\ServiceHub\\Hosts\\ServiceHub.Host.AnyCPU\\ServiceHub.RoslynCodeAnalysisService.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 5544,
+    "FilePath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\ServiceHub\\Hosts\\ServiceHub.Host.Dotnet.x64\\ServiceHub.Host.dotnet.x64.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 16584,
+    "FilePath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\ServiceHub\\Hosts\\ServiceHub.Host.netfx.x64\\ServiceHub.IntellicodeModelService.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 14008,
+    "FilePath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\ServiceHub\\Hosts\\ServiceHub.Host.Dotnet.x64\\ServiceHub.Host.dotnet.x64.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 804,
+    "FilePath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\ServiceHub\\Hosts\\ServiceHub.Host.AnyCPU\\ServiceHub.Host.AnyCPU.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 14880,
+    "FilePath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\ServiceHub\\Hosts\\ServiceHub.Host.AnyCPU\\ServiceHub.TestWindowStoreHost.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 17936,
+    "FilePath": "C:\\Program Files\\Image-Line\\FL Studio 20\\FL64.exe",
+    "IsTrusted": false
+  },
+  {
+    "Id": 5976,
+    "FilePath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\Roslyn\\VBCSCompiler.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 17996,
+    "FilePath": "C:\\Windows\\system32\\conhost.exe",
+    "IsTrusted": false
+  },
+  {
+    "Id": 10208,
+    "FilePath": "\\\\?\\C:\\Users\\savage\\AppData\\Local\\Microsoft\\VisualStudio\\17.0_fde74a3c\\WinFormsDesigner\\tlqiyhvc.uf1\\DesignToolsServer.exe",
+    "IsTrusted": true
+  },
+  {
+    "Id": 11032,
+    "FilePath": "D:\\UTM\\PMRI\\lab4_PMRI\\bin\\Debug\\net6.0-windows\\lab4_PMRI.exe",
+    "IsTrusted": false
+  }
+]
